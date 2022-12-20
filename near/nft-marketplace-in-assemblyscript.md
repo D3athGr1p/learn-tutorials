@@ -25,7 +25,7 @@ If you haven't already, we need to install the `yarn` package manager. The examp
 npm i -g yarn
 ```
 
-If that worked, you're ready to develop smart contracts in AssemblyScript and Rust. If you encounter any errors or issues during the install process, you can check out the forums or Discord for help.
+If that worked, you're ready to develop smart contracts in AssemblyScript and Rust. 
 
 # Cloning the NEAR NFT repo
 

@@ -22,8 +22,6 @@ Web 3 offers developers a new world in which to build the future of the internet
 
 The opportunities are endless and we wish you well on your journey!
 
-_If you want to connect with an amazing community of developers, join us on [Discord](https://figment.io/devchat)._
-
 ![With ten miles behind me and ten thousand more to go…](https://raw.githubusercontent.com/figment-networks/learn-tutorials/master/mirror/assets/hike.jpeg)
 
 {% label %}

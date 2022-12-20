@@ -939,5 +939,3 @@ The code repository is here: [Link](https://github.com/helpicelo/vault-dapp)
 This tutorial was aimed to provide a bare-bones implementation of a dApp in the Celo Ecosystem. We covered the Vault Smart Contract development and deployment, together with the bootstrapping of a React Application to interact with its basic functions (approve, lock, withdraw). We hope to continue extending this documentation.
 
 The tutorial was a team effort by [Celo Helpi](https://github.com/helpicelo).
-
-If you had any difficulties following this tutorial or simply want to discuss Celo and DataHub tech with us you can [join our community](https://discord.gg/Chhuv5zHy3) today!

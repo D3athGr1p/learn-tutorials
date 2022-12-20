@@ -640,7 +640,7 @@ Now that we've deployed our Celo crowdfunding smart contract on Celo, we can mov
 
 ## Potential Errors & Solutions 
 
-If you run into any problems, feel free to ask on the [Figment Learn Discord](https://discord.gg/f5YuEsQTAx). You can also view the source code [on GitHub](https://github.com/alexreyes/Celo-Crowdfunding-Tutorial-2). In any case, here are some common errors you may encounter.
+You can view the source code [on GitHub](https://github.com/alexreyes/Celo-Crowdfunding-Tutorial-2). In any case, here are some common errors you may encounter.
 
 If you get the following error:
 
@@ -939,7 +939,7 @@ This three part series has shown you how to write a smart contract for Celo, dep
 
 You can use this third tutorial as a jumping off point for interacting with any smart contract you make using Javascript. Whether you're creating a web dApp or a mobile dApp, you can use this code in order to interact with your contracts.
 
-If you run into any problems, feel free to ask on the [Figment Learn Discord](https://discord.gg/f5YuEsQTAx). You can also view the source code [here](https://github.com/alexreyes/Celo-Crowdfunding-Tutorial-3)
+You can also view the source code [here](https://github.com/alexreyes/Celo-Crowdfunding-Tutorial-3)
 
 # About the Authors
 

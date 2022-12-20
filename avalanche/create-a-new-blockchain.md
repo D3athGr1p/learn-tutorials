@@ -278,5 +278,3 @@ curl -X POST --data '{
     "id": 1
 }
 ```
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!

@@ -302,7 +302,7 @@ Now that you've learned how to deploy smart contracts on Celo using Truffle, you
 
 ## Common Errors & Solutions
 
-If you run into errors at any point, feel free to ask on the Celo channel on the Figment Learn discord server. In any case, here are some common errors you may encounter.
+Here are some common errors you may encounter.
 
 If you get the following error:
 

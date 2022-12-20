@@ -295,6 +295,3 @@ Just as before, we can call [`avm.getBalance`]() to verify the funds were receiv
 ## Wrapping Up
 
 That’s it! Now, you can swap AVAX back and forth between the X-Chain and P-Chain, both by using the Avalanche Wallet, and by calling the appropriate API calls on an Avalanche node.
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

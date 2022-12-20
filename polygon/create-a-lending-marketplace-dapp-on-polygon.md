@@ -553,8 +553,6 @@ Open the lending dapp in browser and go to the `/myloans` path and connect to Po
 
 Now you know about creating a Lending Marketplace with Truffle Suite and ReactJS on the Polygon network.
 
-If you had any difficulties following this tutorial or simply want to discuss Polygon tech with us you can [**join our discord community**](https://figment.io/devchat)!
-
 # About the authors
 
 This tutorial is created by [Devendra Yadav](https://twitter.com/de_villa7) (Blockchain Dev) and Prince Rana (Data Specialist).

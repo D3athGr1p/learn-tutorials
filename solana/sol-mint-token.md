@@ -12,8 +12,6 @@ This tutorial will typically show a call to action in the form of a bullet point
 solana --help
 ```
 
-If you have any difficulty following this tutorial or simply want to discuss Solana tech with us you can [join our community today](https://discord.gg/fszyM7K)!
-
 # Prerequisites
 
 * Basic familiarity with a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)

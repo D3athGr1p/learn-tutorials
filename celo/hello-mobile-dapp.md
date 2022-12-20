@@ -168,6 +168,3 @@ You should now have the necessary skills to get started with developing mobile a
 * Mobile development using React Native and Expo
 
 This is not a comprehensive tutorial for Celo's features and capabilities, keep exploring the docs to learn more. 
-
-If you had any difficulties following this tutorial or simply want to discuss Celo tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

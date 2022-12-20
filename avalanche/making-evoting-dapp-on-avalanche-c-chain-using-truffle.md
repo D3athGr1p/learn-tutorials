@@ -580,8 +580,6 @@ The dapp which we built just now is a very simple e-voting application, where fo
 
 This tutorial was created by [Raj Ranjan](https://www.linkedin.com/in/iamrajranjan), You can get in touch with the author on [GitHub](https://github.com/rajranjan0608)
 
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-
 # References 
 
 This tutorial has been made by taking reference from [Dapp University](https://github.com/dappuniversity/election).

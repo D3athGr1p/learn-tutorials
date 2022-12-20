@@ -219,6 +219,3 @@ In this tutorial, we:
 * Called `createFixedCapAsset` to create a fixed cap asset
 * Called `getBalance` to check address balances
 * Called `send` to transfer a quantity of our asset
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

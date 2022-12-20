@@ -805,8 +805,6 @@ export default SellForm;
 
 Now you know about creating a Decentralized Exchange (DEX) with Truffle suite and ReactJS on the Avalanche network.
 
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our discord channel**](https://discord.gg/fszyM7K)!
-
 # About the author
 
 [Devendra Yadav](https://twitter.com/de_villa7)
