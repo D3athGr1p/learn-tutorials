@@ -2,8 +2,7 @@
 In this tutorial we'll take a look at how to setup matchstick and write unit tests for the MasterChefV2 subgraph.  
 This tutorial will typically show a call to action in the form of a codebox.  
 Please note that if you need help with or would like to explore the usage of any command referenced in this tutorial, add the `--help` flag after the command.  
-If you have any difficulty following this tutorial, you can join the Figment Learn [discord](https://discord.gg/fszyM7K) for help!  
-
+ 
 # Prerequisites
 - Basic familiarity with a command-line interface.
 - Basic familiarity with Git & GitHub.

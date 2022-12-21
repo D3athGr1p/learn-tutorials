@@ -135,6 +135,3 @@ The response confirms that our Subnet was created:
 ## Add Validators to the Subnet
 
 [This tutorial](https://docs.avax.network/build/tutorials/platform/subnet/create-a-subnet) will show you how to add validators to a Subnet.
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

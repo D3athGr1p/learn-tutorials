@@ -125,6 +125,3 @@ curl --location --request POST 'localhost:9650/ext/platform' \
 That’s it! Your local Avalanche network is up and running. It has the default blockchains: the X-Chain, C-Chain and P-Chain. The only Subnet that exists is the Primary Network.
 
 You can add more nodes to the network. Just remember to give unique values for `db-dir`, `http-port` and `staking-port`.
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

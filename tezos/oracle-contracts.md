@@ -441,5 +441,3 @@ Once it's up, it will serve the debug page and update the oracle contract roughl
 You should be able to view the debug screen at `localhost:5000`, fetch the latest values using `get-value`, and use a block explorer to inspect the contract.
 
 You can find a running example of the contract [on Carthage](https://you.better-call.dev/carthage/KT1CUTjTqf4UMf6c9A8ZA4e1ntWbLVTnvrKG/operations).
-
-If you had any difficulties following this tutorial or simply want to discuss Tezos tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!

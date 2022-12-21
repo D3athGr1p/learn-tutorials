@@ -347,5 +347,3 @@ Congratulations on making it to the end of this tutorial!
 > -- Epictetus
 
 So, keep learning and keep building and I'm sure you're on your way to building something great! Good luck!
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can join [**our community**](https://discord.gg/fszyM7K) today!

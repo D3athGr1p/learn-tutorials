@@ -331,8 +331,6 @@ Congratulations on making it to the end of this tutorial!
 
 So, keep learning and keep building and you're on your way to making something great! Good luck!
 
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can join [**our community**](https://discord.gg/fszyM7K) today!
-
 # References
 
 * [AvalancheGo Readme](https://github.com/ava-labs/avalanchego/blob/master/README.md)

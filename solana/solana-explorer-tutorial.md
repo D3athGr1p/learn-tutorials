@@ -1099,8 +1099,6 @@ Congratulations! We made it. 👍
 
 In this tutorial, we built a simple blockchain explorer using Solana dapp-scaffold and the key features of Solana explorer. We have learnt how to fetch Price data from Coingecko, fetch general statistics with @solana/web3.js, search historical transactions from an account and get details for a transaction.
 
-If you have any difficulty following this tutorial or simply want to discuss Solana tech with us you can [join our community today](https://figment.io/devchat)!
-
 # Next Steps
 
 Dapp-scaffold allows you to connect to your wallet, you can move forward by creating a personal dashboard by fetching all the data from the connected account.

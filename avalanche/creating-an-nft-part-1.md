@@ -352,6 +352,3 @@ Blockchain technology and tokenomics represent a radical new way of representing
 * Used `sendNFT` to transfer NFTs between addresses.
 
 In Part 2 of this series we’ll go more in depth by using AvalancheJS to create a protocol for our NFT payload and by issuing to multiple groups.
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [*oin our community today](https://discord.gg/fszyM7K)!
-

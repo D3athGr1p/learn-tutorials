@@ -97,6 +97,3 @@ Now, we can expand it by selecting it from the “Deployed Contracts” tab and 
 The contract ABI and Bytecode are available on the compiler tab.
 
 ![](https://github.com/figment-networks/learn-tutorials/raw/master/assets/image%20%2813%29.png)
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-

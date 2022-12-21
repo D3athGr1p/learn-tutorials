@@ -292,5 +292,3 @@ We covered:
 * Generating a new account in Celo
 * Funding an account using the Celo Alfajores Faucet
 * Sending CELO
-
-If you had any difficulties following this tutorial or simply want to discuss Celo tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!

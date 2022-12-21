@@ -735,6 +735,3 @@ Hopefully this tutorial introduced the FA2-SmartPy implementation of FA2 from a 
 * the implementation source code [`multi_asset.py`](https://gitlab.com/smondet/fa2-smartpy/-/blob/master/multi_asset.py);
 * the Agora \(blog\) [post](https://forum.tezosagora.org/t/implementing-fa2-an-update-on-the-fa2-specification-and-smartpy-implementation-release/1870) introducing the project;
 * 🚧 and more to come … 👷
-
-If you had any difficulties following this tutorial or simply want to discuss Tezos tech with us you can [join our community today](https://discord.gg/PtkKz5)!
-

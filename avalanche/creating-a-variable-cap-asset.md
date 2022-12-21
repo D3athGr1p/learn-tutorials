@@ -253,6 +253,3 @@ In this tutorial, we:
 * Used `mint` to mint more units of an asset.
 * Used `getBalance` to check address balances.
 * Used `send` to transfer shares.
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
-
