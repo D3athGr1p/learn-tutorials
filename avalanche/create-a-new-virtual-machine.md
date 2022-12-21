@@ -629,6 +629,3 @@ In this tutorial we learned:
 * The `snowman.ChainVM` interface, which all Virtual Machines that define a linear chain must implement
 * The `snowman.Block` interface, which all blocks that are part of a linear chain must implement
 * The `core.SnowmanVM` and `core.Block` library types, which make defining Virtual Machines faster
-
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [join our community today](https://figment.io/devchat)!
-

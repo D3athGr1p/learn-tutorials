@@ -512,5 +512,3 @@ The Metamask popup displays the gas price for the transaction.
 ![](https://raw.githubusercontent.com/figment-networks/learn-tutorials/master/assets/rent-out-success.png)
 
 After the transaction is confirmed, the property lives on the blockchain and since it is available to be booked, it is displayed on the homepage.
-
-If you had any difficulties following this tutorial or simply want to discuss Polygon \(Matic\) and DataHub tech with us you can [join our community](https://figment.io/devchat) today!

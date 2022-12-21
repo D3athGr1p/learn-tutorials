@@ -429,5 +429,3 @@ You can also view the details of your account & transactions by using the [Near 
 This is a simple example of a contract that calls another contract, but this opens up a lot of opportunities. Now, see if you can figure out how to build the frontend by checking out our [other tutorials](https://docs.near.org/docs/roles/developer/tutorials/introduction) and modifying `src/main.js` and `src/index.html`.
 
 You're ready to cross as many contracts as you want! Happy coding! 🚀
-
-If you had any difficulties following this tutorial or simply want to discuss NEAR tech with us you can [**join our community today**](https://figment.io/devchat)!
